@@ -4,9 +4,9 @@
 
 # The project made by Chaoyu Wang and Ruixiao Feng
 
-## Chaoyu Wang              ## Ruixiao Feng
-## Western University       ## Western University
-## wan287@uwo.ca            ## rfeng52@uwo.ca
+#### Chaoyu Wang              ## Ruixiao Feng
+#### Western University       ## Western University
+#### wan287@uwo.ca            ## rfeng52@uwo.ca
 
 # contribution statement
 
